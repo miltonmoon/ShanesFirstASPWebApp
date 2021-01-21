@@ -1,0 +1,11 @@
+﻿body {
+    font-family:'Agency FB';
+    color: navy;
+}
+
+label {
+    font-size: 25px;
+    color: brown;
+    width: 150px;
+    display: inline-block;
+}
